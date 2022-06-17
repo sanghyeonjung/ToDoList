@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:title="홈"
+        android:icon="@drawable/ic_example"/>
+
+    <item
+        android:id="@+id/menu_todolist"
+        android:enabled="true"
+        android:title="투두리스트"
+        android:icon="@drawable/ic_example"/>
+
+    <item
+        android:id="@+id/menu_memory"
+        android:enabled="true"
+        android:title="기억창고"
+        android:icon="@drawable/ic_example"/>
+
+
+    <item
+        android:id="@+id/menu_more"
+        android:enabled="true"
+        android:title="더보기"
+        android:icon="@drawable/ic_example" />
+</menu>
